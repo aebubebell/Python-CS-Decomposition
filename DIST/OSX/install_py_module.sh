@@ -2,7 +2,7 @@
 
 # For OSX
 CUNCSDMODULE=cuncsd.cpython-35m-darwin.so
-CUNCSD_SQ_MODULE=cuncsd_sq.cpython-35m-darwin.so
+CUNCSD_SQ_MODULE=cuncsd_sq.cpython-35-darwin.so
 command -v conda-env -h ls >/dev/null 2>&1 || { printf >&2 "Command line tool 'conda-env' is not available.\nThis modul requires Anaconda Python 3.5 or newer.\nPlease check if you have Anaconda Python installed, and on the \$PATH variable!\n\n"; exit 1; }
 
 
